@@ -1,0 +1,9 @@
+{
+    "option": "some option",
+    "other": "other option {{test}}",
+    "test": "test key",
+    "nested": {
+        "key": "nested key",
+        "nested-placeholders": "test with {{amount}} placeholders"
+    }
+}

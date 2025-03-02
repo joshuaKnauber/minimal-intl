@@ -1,0 +1,9 @@
+{
+    "option": "eine option",
+    "other": "andere option",
+    "test": "test schlüssel",
+    "nested": {
+        "key": "abgestufter schlüssel",
+        "nested-placeholders": "test mit {{amount}} platzhaltern"
+    }
+}

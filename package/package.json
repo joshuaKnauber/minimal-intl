@@ -1,0 +1,18 @@
+{
+  "name": "minimal-intl",
+  "version": "0.0.1",
+  "description": "Minimal, simple, typesafe react intl package",
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "dev": "bunchee --watch",
+    "build": "bunchee"
+  },
+  "author": "Joshua Knauber",
+  "license": "MIT",
+  "devDependencies": {
+    "bunchee": "^6.4.0",
+    "typescript": "^5.8.2"
+  }
+}

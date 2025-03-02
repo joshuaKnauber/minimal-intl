@@ -1,6 +1,6 @@
 {
     "option": "eine option",
-    "other": "andere option",
+    "other": "andere option {{test}}",
     "test": "test schlüssel",
     "nested": {
         "key": "abgestufter schlüssel",

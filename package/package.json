@@ -1,7 +1,8 @@
 {
   "name": "minimal-intl",
-  "version": "0.0.41",
+  "version": "0.0.42",
   "repository": "https://github.com/joshuaKnauber/minimal-intl",
+  "keywords": ["intl","i18n","internationalization","locale","localization","react","translate"],
   "description": "Minimal, simple, typesafe react intl package",
   "type": "module",
   "main": "./dist/index.js",
